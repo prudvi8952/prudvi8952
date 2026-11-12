@@ -18,7 +18,7 @@
 <a href="https://github.com/prudvi8952">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=10B981" alt="GitHub" />
 </a>
-<a href="mailto:prudviraj8952@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=prudviraj8952@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-065F46?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
