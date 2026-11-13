@@ -7,7 +7,7 @@
 
 <!-- Animated Typing Tagline -->
 <a href="https://github.com/prudvi8952">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=580&lines=B.E.+Computer+Science+%26+Engineering+Undergrad;Full-Stack+Web+Development+(React+%7C+Node.js);Applied+AI%2FML+%26+Computer+Vision+Systems" alt="Typing Tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=10B981&center=true&vCenter=true&width=580&lines=B.E.+Computer+Science+%26+Engineering+Undergrad;Applied+AI%2FML+%26+Computer+Vision+Systems" alt="Typing Tagline" />
 </a>
 
 <p align="center">
